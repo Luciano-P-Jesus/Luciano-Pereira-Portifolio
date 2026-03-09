@@ -1,2 +1,24 @@
-# Luciano-Pereira-Portifolio
-Portfólio web desenvolvido com HTML, CSS e JavaScript, estruturado de forma organizada e modular. O projeto apresenta aplicações autorais, incluindo o RemindMail e o XPlace, com foco em clareza de código, responsividade e boas práticas de desenvolvimento front-end. Publicado via GitHub Pages.
+# Portfólio – Luciano Pereira
+
+Portfólio web desenvolvido para apresentar meus projetos e habilidades como desenvolvedor.
+
+## Tecnologias
+- HTML
+- CSS
+- JavaScript
+- Estrutura modular de páginas estáticas
+
+## Estrutura
+Frontend/
+- index.html
+- projetos.html
+- páginas de projetos individuais
+- style.css
+- script.js
+
+## Projetos em destaque
+- XPlace Core – Studium
+- RemindMail
+
+## Deploy
+Publicado via GitHub Pages.
