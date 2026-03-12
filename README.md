@@ -21,4 +21,4 @@ Frontend/
 - RemindMail
 
 ## Deploy
-Publicado via GitHub Pages.
+Publicado via CloudFlare
